@@ -1,0 +1,19 @@
+body{
+    color: lightcyan;
+    background: linear-gradient(#fcb603 0%,#f78bd5 100%);
+}
+.heding{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object{
+    color:#4b5d7a ;
+}
+#camera,#result{
+    border:5px-dashed black;
+    width: 350px;
+    height:350px;
+}
+#result_object_name,#result_object_accuracy{
+    color: #c44b59;
+}
